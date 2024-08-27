@@ -213,6 +213,7 @@ if submit:
 
     if submit and input_text:
         response = get_gemini_response_text(input_text)
+        time.sleep(2.5)
 
         for chunk in response:
             st.write(chunk.text)
