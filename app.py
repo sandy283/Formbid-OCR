@@ -173,6 +173,7 @@ def get_gemini_response_text(question):
 
 if submit:
     response = get_gemini_response(input_text, image)
+    st.write(response)
 
     with open("temp.txt", "w") as file:
         file.write(response)
