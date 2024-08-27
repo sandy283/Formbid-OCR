@@ -1,0 +1,13 @@
+Si(%): 0.016
+Fe(%): 0.021
+Cu(%): 0.04
+Mn(%): 0.056
+Mg(%): 0.012
+Cr(%): 0.011
+Zn(%): 0.013
+Ti(%): 0.041
+Al(%): 0.075
+Ultimate tensile strength(Mpa): 31.0
+Tensile yield strength(Mpa): 27.6
+Modulus of Elasticity(Gpa): 68.9
+Shear strength(Mpa): 20.7
